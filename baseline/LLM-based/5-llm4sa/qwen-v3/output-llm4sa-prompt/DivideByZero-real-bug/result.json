@@ -1,0 +1,97 @@
+[
+  {
+    "label": true,
+    "detect_result": true,
+    "index": 1
+  },
+  {
+    "label": true,
+    "detect_result": true,
+    "index": 2
+  },
+  {
+    "label": true,
+    "detect_result": true,
+    "index": 3
+  },
+  {
+    "label": true,
+    "detect_result": false,
+    "index": 4
+  },
+  {
+    "label": true,
+    "detect_result": true,
+    "index": 5
+  },
+  {
+    "label": true,
+    "detect_result": null,
+    "index": 6
+  },
+  {
+    "label": true,
+    "detect_result": true,
+    "index": 7
+  },
+  {
+    "label": true,
+    "detect_result": false,
+    "index": 8
+  },
+  {
+    "label": true,
+    "detect_result": true,
+    "index": 9
+  },
+  {
+    "label": true,
+    "detect_result": true,
+    "index": 10
+  },
+  {
+    "label": true,
+    "detect_result": true,
+    "index": 11
+  },
+  {
+    "label": true,
+    "detect_result": true,
+    "index": 12
+  },
+  {
+    "label": true,
+    "detect_result": true,
+    "index": 13
+  },
+  {
+    "label": true,
+    "detect_result": true,
+    "index": 14
+  },
+  {
+    "label": true,
+    "detect_result": true,
+    "index": 15
+  },
+  {
+    "label": true,
+    "detect_result": null,
+    "index": 16
+  },
+  {
+    "label": true,
+    "detect_result": true,
+    "index": 17
+  },
+  {
+    "label": true,
+    "detect_result": true,
+    "index": 18
+  },
+  {
+    "label": true,
+    "detect_result": true,
+    "index": 19
+  }
+]
